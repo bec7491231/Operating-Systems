@@ -4,3 +4,7 @@ However, with the pros there are always cons. With the new Windows-10 it is a ne
 Google Android OS
 Google has put out multiple version of a Google Phone (i.e. Pixel). There are definite pros to using their system. You can cross multiple platforms and keep them all updated. The camera quality of their phones is one of the best. The touch response is very good.
 The cons of it is the concerns of tracking information by Google. This is a concern, because if you are using multiple platforms, they can track what you are doing. There is high memory and CPU usage via the system. This can add to slowing down of the phone or Chromebook, etc.
+Linux OS
+Linux is a good alternative to using other Operating Systems. Linux is less susceptible to viruses, malware, and other dangers. It works on most systems. You can utilize your preferred browser.
+However, there are cons to the program. You can’t use most 3rd party applications. There is a learning curve to using this program. Plus the Office Software is not as good as Microsoft Office. 
+
