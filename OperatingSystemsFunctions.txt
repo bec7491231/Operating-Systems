@@ -1,3 +1,6 @@
 Windows-10
 There are pros when it comes to Windows-10 Operating System. Windows-10 is the newest upgrade. It is free and comes with the computers. It is easier to go through files, especially when you have multiple files open. There is improved security, and improved transparency and privacy.
 However, with the pros there are always cons. With the new Windows-10 it is a new OS, so people must get used to it. There are mandatory updates, so users cannot opt out of them. 
+Google Android OS
+Google has put out multiple version of a Google Phone (i.e. Pixel). There are definite pros to using their system. You can cross multiple platforms and keep them all updated. The camera quality of their phones is one of the best. The touch response is very good.
+The cons of it is the concerns of tracking information by Google. This is a concern, because if you are using multiple platforms, they can track what you are doing. There is high memory and CPU usage via the system. This can add to slowing down of the phone or Chromebook, etc.
